@@ -1,0 +1,9 @@
+You need Node.js
+
+
+put npm install
+
+
+run all
+
+All are in README.md
